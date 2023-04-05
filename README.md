@@ -1,5 +1,8 @@
 # iOSInternHomework
 ```javascript
-var s = "JavaScript 語法高亮";
+https://github.com/PeterChiou777/iOSInternHomework.git;
+cd iOSInternHomework
+pod install
+open iOSInternHomework.xcworkspace
 alert(s);
 ```
